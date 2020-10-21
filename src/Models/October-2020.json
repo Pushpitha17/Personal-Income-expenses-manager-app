@@ -1,0 +1,20 @@
+{
+	"income": [
+		{
+			"date": "09/10/2020",
+			"desc": "first income",
+			"amount": 20000
+		},
+		{
+			"date": "09/10/2020",
+			"desc": "first income",
+			"amount": 20000
+		},
+		{
+			"date": "09/10/2020",
+			"desc": "first income",
+			"amount": 20000
+		}
+	],
+	"expenses": { "general": [] }
+}
