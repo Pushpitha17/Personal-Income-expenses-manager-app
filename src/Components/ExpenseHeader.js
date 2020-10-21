@@ -39,7 +39,7 @@ function TableHeader({ data, addfiled, addexpense }) {
 				open={openFieldModal}
 				onClose={() => setOpenFieldModal(false)}
 				onOpen={() => setOpenFieldModal(true)}>
-				<Header content={`Add New`} />
+				<Header content={`Add New Expense Field`} />
 				<Modal.Content>
 					<p>Date : {date}</p>
 					<Formik
