@@ -1,10 +1,10 @@
-# Desktop app to manage incomes and expenses for the month
+# Windows Desktop app to manage incomes and expenses for the month
 
 ## features
 * keep track of incomes and expenses
 * divide expense to fields
 
-[Download Setup file](https://drive.google.com/file/d/1bqpnSqZ1FJW5-worYd-wBEU7f5hmunNM/view?usp=sharing)
+[Download Setup file](https://drive.google.com/file/d/1bqpnSqZ1FJW5-worYd-wBEU7f5hmunNM/view?usp=sharing){:target="_blank"}
 
 <img src="src/images/start.jpg" width="800px">
 <img src="src/images/addNewincome.jpg" width="800px">
